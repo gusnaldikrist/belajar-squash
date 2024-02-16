@@ -1,2 +1,2 @@
 # Ini Adalah Repo Buat Belajar Squash
-Repo buat belajar squash
+Squash Intinya Adalah menggabungkan beberapa commit jadi satu commit
